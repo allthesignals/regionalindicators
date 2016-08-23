@@ -48,12 +48,12 @@ $soft-highlight: #FFF;
 $mid-highlight:  #E5E5E5;
 
 /* fonts */
-@import url(http://fonts.googleapis.com/css?family=Lato);
-@import url(http://fonts.googleapis.com/css?family=Rokkitt);
-@import url(http://fonts.googleapis.com/css?family=Lora);
-@import url(http://fonts.googleapis.com/css?family=Vollkorn);
-@import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,900,700,300italic,400italic,700italic,900italic);
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(//fonts.googleapis.com/css?family=Lato);
+@import url(//fonts.googleapis.com/css?family=Rokkitt);
+@import url(//fonts.googleapis.com/css?family=Lora);
+@import url(//fonts.googleapis.com/css?family=Vollkorn);
+@import url(//fonts.googleapis.com/css?family=Merriweather:400,300,900,700,300italic,400italic,700italic,900italic);
+@import url(//fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 /* basic typography */
 
@@ -371,11 +371,11 @@ h4.state-of-equity {
       opacity:    0.8;
 
       &.sustainable-growth {
-        background: url(http://www.mapc.org/sites/default/files/mapc_logo.png) no-repeat; 
+        background: url(//www.mapc.org/sites/default/files/mapc_logo.png) no-repeat; 
         background-size: 100% 100%;
       }
       &.community-vitality {
-        background: url(http://www.mapc.org/sites/default/files/mapc_logo.png) no-repeat; 
+        background: url(//www.mapc.org/sites/default/files/mapc_logo.png) no-repeat; 
         background-size: 100% 100%;
       }
       &.regional-prosperity{
@@ -387,7 +387,7 @@ h4.state-of-equity {
         background-size: 100% 100%;
       }
       &.healthy-environment {
-        background: url(http://www.mapc.org/sites/default/files/mapc_logo.png) no-repeat; 
+        background: url(//www.mapc.org/sites/default/files/mapc_logo.png) no-repeat; 
         background-size: 100% 100%;
       }
       &.state-of-equity {
