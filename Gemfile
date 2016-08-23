@@ -9,6 +9,7 @@ gem 'rails', '3.2.13'
 gem 'pg',      '0.17.1'
 gem 'unicorn', '4.8.2'
 gem 'foreman', '0.63.0'
+gem 'thin', '1.7.0'
 
 gem 'bluecloth',                 '2.2.0'
 gem 'validates_timeliness',      '~> 3.0'
